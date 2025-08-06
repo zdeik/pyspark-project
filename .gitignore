@@ -4,3 +4,4 @@
 *.tmp
 output/
 .ipynb_checkpoints/
+learning_spark_data/
